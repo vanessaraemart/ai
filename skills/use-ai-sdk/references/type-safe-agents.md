@@ -8,6 +8,7 @@ description: Build end-to-end type-safe agents by inferring UIMessage types from
 Build end-to-end type-safe agents by inferring `UIMessage` types from your agent definition for type-safe UI rendering with `useChat`.
 
 ## Recommended Structure
+//exploring this file
 
 ```
 lib/
